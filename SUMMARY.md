@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 ようこそ、Sleepagotchi ヘルプページへ](README.md)
+* [👋 ようこそ、Sleepagotchi コミュニティサポートページへ](README.md)
 
 ## Overview
 
